@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/billeasy-wall-gallary/static/css/main.c34380a9.chunk.css",
-    "main.js": "/billeasy-wall-gallary/static/js/main.db3c770f.chunk.js",
-    "main.js.map": "/billeasy-wall-gallary/static/js/main.db3c770f.chunk.js.map",
+    "main.js": "/billeasy-wall-gallary/static/js/main.7ccc5055.chunk.js",
+    "main.js.map": "/billeasy-wall-gallary/static/js/main.7ccc5055.chunk.js.map",
     "runtime-main.js": "/billeasy-wall-gallary/static/js/runtime-main.e2ff91fd.js",
     "runtime-main.js.map": "/billeasy-wall-gallary/static/js/runtime-main.e2ff91fd.js.map",
     "static/js/2.e19ca35d.chunk.js": "/billeasy-wall-gallary/static/js/2.e19ca35d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e2ff91fd.js",
     "static/js/2.e19ca35d.chunk.js",
     "static/css/main.c34380a9.chunk.css",
-    "static/js/main.db3c770f.chunk.js"
+    "static/js/main.7ccc5055.chunk.js"
   ]
 }
